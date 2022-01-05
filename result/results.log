@@ -1,0 +1,200 @@
+Level: INFO; Content: DriverClassMT oracleversion, database : orcl, instance : orcl1, component : RDBMS, category : ALERT, type : Alert Log - DB, oracleverion: 19.0.0.0.0
+Level: INFO; Content: DriverClassMT oracleversion, database : orcl, instance : orcl1, component : RDBMS, category : ALERT, type : Alert Log - DB, oracleverion: 19.0.0.0.0
+Level: INFO; Content: DriverClassMT oracleversion, database : orcl, instance : orcl1, component : RDBMS, category : ALERT, type : Alert Log - DB, oracleverion: 19.0.0.0.0
+Level: INFO; Content: DriverClassMT oracleversion, database : orcl, instance : orcl1, component : RDBMS, category : ALERT, type : Alert Log - DB, oracleverion: 19.0.0.0.0
+Level: INFO; Content: DriverClassMT oracleversion, database : orcl, instance : orcl1, component : RDBMS, category : ALERT, type : Alert Log - DB, oracleverion: 19.0.0.0.0
+Level: INFO; Content: DriverClassMT oracleversion, database : , instance : +ASM1, component : ASM, category : ALERT, type : Alert Log - ASM, oracleverion: 19.0.0.0.0
+Level: INFO; Content: DriverClassMT oracleversion, database : orcl, instance : orcl1, component : RDBMS, category : ALERT, type : Alert Log - DB, oracleverion: 19.0.0.0.0
+Level: ERROR; Content: Recieved Signal: SIGTERM
+Level: ERROR; Content: Recieved Signal: SIGTERM
+Level: INFO; Content: Metadata Json File :/opt/oracle.ahf/data/repository/1h/den00xrz.tfa_Tue_Dec_21_02_08_24_UTC_2021.zip.json
+Level: INFO; Content: Metadata Json File :/opt/oracle.ahf/data/repository/2h/den00xrz.tfa_Tue_Dec_21_02_13_30_UTC_2021.zip.json
+Level: INFO; Content: Metadata Json File :/opt/oracle.ahf/data/repository/hours/den00xrz.tfa_Tue_Dec_21_02_17_44_UTC_2021.zip.json
+Level: INFO; Content: Action Name : runinventory Status : REQUESTED ActionArgs : -c
+Level: INFO; Content: Action Name : runinventory Status : COMPLETE ActionArgs : -c
+Level: INFO; Content: Action Name : runinventory Status : COMPLETE ActionArgs : -c
+Level: INFO; Content: Checking if inventory run exists for this host already : Status : COMPLETE, Last run ended on : Mon Dec 20 15:51:15 PST 2021
+Level: INFO; Content: Completed creating Zip Metadata Json File for zip : /opt/oracle.ahf/data/repository/TestCHM_collection/den00xrz.tfa_Tue_Dec_21_02_03_07_UTC_2021.zip
+Level: INFO; Content: Completed creating Zip Metadata Json File for zip : /opt/oracle.ahf/data/repository/1h/den00xrz.tfa_Tue_Dec_21_02_08_24_UTC_2021.zip
+Level: INFO; Content: Completed creating Zip Metadata Json File for zip : /opt/oracle.ahf/data/repository/2h/den00xrz.tfa_Tue_Dec_21_02_13_30_UTC_2021.zip
+Level: INFO; Content: Completed creating Zip Metadata Json File for zip : /opt/oracle.ahf/data/repository/auto_srdcCompositeTue_Dec_21_02_07_06_UTC_2021_node_den00xrz/den00xrz.tfa_srdc_autosrdc_Tue_Dec_21_02_14_48_UTC_2021.zip
+Level: INFO; Content: Completed creating Zip Metadata Json File for zip : /opt/oracle.ahf/data/repository/collection_Tue_Dec_21_02_07_06_UTC_2021_node_den00xrz/den00xrz.tfa_Tue_Dec_21_02_07_06_UTC_2021.zip
+Level: INFO; Content: Completed creating Zip Metadata Json File for zip : /opt/oracle.ahf/data/repository/hours/den00xrz.tfa_Tue_Dec_21_02_17_44_UTC_2021.zip
+Level: INFO; Content: Reset master node variables from initiating node
+Level: INFO; Content: Command output: 23:50:58 up 2 days,  5:34,  1 user,  load average: 1.72, 1.33, 1.45
+Level: INFO; Content: Command output: 23:53:46 up 2 days,  5:37,  1 user,  load average: 2.91, 2.13, 1.75
+Level: INFO; Content: Command output: 23:55:39 up 2 days,  5:39,  1 user,  load average: 3.79, 2.77, 2.03
+Level: INFO; Content: getFilesFromStore: Dumping to lucene started..
+Level: INFO; Content: getFilesFromStore: Dumping to lucene started..
+Level: INFO; Content: Adding the first event to processedEvents : 2021-12-21T02:07:06Z
+Level: INFO; Content: Suptools directories to be purged :  orachk, exachk, managelogs, atpcanary, atpdcaglp
+Level: INFO; Content: Suptools directories to be purged :  orachk, exachk, managelogs, atpcanary, atpdcaglp
+Level: INFO; Content: Trying to add ORA-00600 with db orcl
+Level: INFO; Content: Trying to add ORA-00700 with db orcl
+Level: INFO; Content: Trying to add ORA-01578 with db orcl
+Level: INFO; Content: Trying to add ORA-04020 with db orcl
+Level: INFO; Content: Trying to add ORA-04021 with db orcl
+Level: INFO; Content: Trying to add ORA-04030 with db orcl
+Level: INFO; Content: Trying to add ORA-04031 with db orcl
+Level: INFO; Content: Trying to add ORA-07445 with db orcl
+Level: INFO; Content: Trying to add ORA-00600 with db orcl
+Level: INFO; Content: Event metadata ST: ORA-00494: enqueue held for too long more than seconds by osid
+Level: INFO; Content: DATAorg.glassfish.json.JsonArrayBuilderImpl@73041f19
+Level: INFO; Content: Processing event ORA-00600: internal error code, arguments:  dbgtu:self_lock_test ,  fake assert ,   ,   ,   ,   ,   ,   ,   ,   ,   ,    at .... 2021-12-21T02:07:07Z
+Level: timeout="600"; Content: version="GTE-12.1" exclude_on="GTE-12.1" >
+Level: timeout="300"; Content: version="GTE-11.1" exclude_on="GTE-11.1" >
+Level: INFO; Content: Node List size  :8
+Level: INFO; Content: Action Name : runinventory Status : FAILED-Duplicate run ActionArgs : null
+Level: INFO; Content: Action Name : runinventory Status : FAILED-Duplicate run ActionArgs : null
+Level: INFO; Content: Completed : Gathering Events in Period Data
+Level: INFO; Content: Completed : Gathering Events in Period Data
+Level: INFO; Content: Completed : Gathering Events in Period Data
+Level: INFO; Content: Completed : Gathering Events in Period Data
+Level: INFO; Content: Completed : Gathering Events in Period Data
+Level: INFO; Content: Completed : Gathering Events in Period Data
+Level: INFO; Content: Start setting up array of directoryMappings
+Level: INFO; Content: adding to queueORA-00481: LMON process terminated with error, Event NameORA-00481
+Level: INFO; Content: adding to queueORA-00490: PSP process terminated with error, Event NameORA-00490
+Level: INFO; Content: adding to queueORA-00494: enqueue held for too long more than seconds by osid, Event NameORA-00494
+Level: INFO; Content: adding to queueORA-01578: ORACLE data block corrupted file 1, block 57371, Event NameORA-01578
+Level: INFO; Content: adding to queueORA-04020: deadlock detected while trying to lock object 43421, Event NameORA-04020
+Level: INFO; Content: adding to queueORA-04021: timeout occurred while waiting to lock object 43422, Event NameORA-04021
+Level: INFO; Content: adding to queueORA-04030: out of process memory when trying to allocate, Event NameORA-04030
+Level: INFO; Content: adding to queueORA-04031: unable to allocate 8 bytes of shared memory, Event NameORA-04031
+Level: INFO; Content: adding to queueORA-04036: PGA memory used by the instance exceeds PGA_AGGREGATE_LIMIT, Event NameORA-04036
+Level: INFO; Content: adding to queueORA-07445: exception encountered: core dump                  , Event NameORA-07445
+Level: INFO; Content: adding to queueORA-12751: CPU time or run time policy violation, Event NameORA-12751
+Level: INFO; Content: adding to queueORA-29701: unable to connect to Cluster Synchronization Service, Event NameORA-29701
+Level: INFO; Content: adding to queueORA-29702: error occurred in Cluster Group Service operation, Event NameORA-29702
+Level: INFO; Content: adding to queueORA-29703: error occurred in global enqueue service operation, Event NameORA-29703
+Level: INFO; Content: adding to queueORA-29708: error occurred in Cluster Synchronization Services, Event NameORA-29708
+Level: INFO; Content: adding to queueORA-29709: Communication failure with Cluster Synchronization, Event NameORA-29709
+Level: INFO; Content: adding to queueORA-29710: Current operation aborted by Cluster Synchronization, Event NameORA-29710
+Level: INFO; Content: adding to queueORA-29740: evicted by instance number , group incarnation, Event NameORA-29740
+Level: INFO; Content: adding to queueORA-32701: Possible hangs up to hang ID= detected, Event NameORA-32701
+Level: INFO; Content: Event ORA-00700 db orcl. Successfully added to the set
+Level: INFO; Content: Event ORA-01578 db orcl. Successfully added to the set
+Level: INFO; Content: Event ORA-04020 db orcl. Successfully added to the set
+Level: INFO; Content: Event ORA-04021 db orcl. Successfully added to the set
+Level: INFO; Content: Event ORA-04030 db orcl. Successfully added to the set
+Level: INFO; Content: Event ORA-04031 db orcl. Successfully added to the set
+Level: INFO; Content: Event ORA-07445 db orcl. Successfully added to the set
+Level: INFO; Content: Reading cluster metadata from /opt/oracle.ahf/data/den00xrz/tfa/tfa_setup.txt
+Level: INFO; Content: Reading cluster metadata from /opt/oracle.ahf/data/den00xrz/tfa/tfa_setup.txt
+Level: INFO; Content: Running Command : su oradb -c  /opt/oracle.ahf/tfa/bin/tfactl diagcollect -srdc autosrdc -database orcl -event_time "Dec/20/2021 18:07:06" -tag auto_srdcCompositeTue_Dec_21_02_07_06_UTC_2021_node_den00xrz -logid 20211221020714
+Level: INFO; Content: adding to queueORA-00257: archiver error, Event NameORA-00257
+Level: INFO; Content: InstanceMonitor restarting scanner:
+Level: INFO; Content: adding to queueORA-29770: global enqueue process LMS (OSID 9) is hung for more than 70 seconds, Event NameORA-29770
+Level: showprompt="1"; Content: prompt="Enter the Database Name" >USERINPUT-DATABASE_NAME</user_input>
+Level: INFO; Content: Components in Entity :  rdbms, os, crs, compliance, tns, chmos, asm, asmproxy, asmio, cha, cfgtools, afd
+Level: INFO; Content: Processing returned event Fields: {instance=NULL, source_type=CRS Alert Log, source=alert.log, content=2021-12-20 15:27:33.077  ORAROOTAGENT(18549) CRS-5822: Agent '/scratch/u01/app/grid/product/bin/orarootagent_root' disconnected from server. Details at (:CRSAGF00117:) {0:1:11} in /scratch/u01/app/grid_base/diag/crs/den00xrz/crs/trace/ohasd_orarootagent_root.trc., pdbname=null, hostname=den00xrz, component=CRS, database=NULL, tracefile=null, data_type=event, name=CRS-5822, from=null, to=null, source_path=/scratch/u01/app/grid_base/diag/crs/den00xrz/crs/trace/alert.log, collectionid=20211220235131den00xrz, timestamp=20211220232733077}
+Level: 15:51:31.031; Content: 26127-129   TFAIndexerThread  Starting indexer thread for index
+Level: INFO; Content: Components in Entity :  rdbms, os, crs, tns, asm, asmproxy, asmio, cha, cfgtools, afd
+Level: INFO; Content: Done processing events
+Level: INFO; Content: Getting component list from remote nodes
+Level: INFO; Content: Request to master den00xrz:resetMasterNodeMCVariables:20211221020708
+Level: INFO; Content: Duplicate Inventory run
+Level: INFO; Content: Setting Inventory Thread : 88
+Level: INFO; Content: Setting Inventory Thread : 603
+Level: INFO; Content: Setting Inventory Thread : 715
+Level: INFO; Content: Setting Inventory Thread : 795
+Level: INFO; Content: SRDCCriticalEventsID : {}
+Level: INFO; Content: SRDCCriticalEventsID : {}
+Level: INFO; Content: SRDCCriticalEventsID : {orcl=20211221020714}
+Level: INFO; Content: SRDCCriticalEventsID : {orcl=20211221020714}
+Level: INFO; Content: srdcCriticalEventsID : 20211221020714
+Level: INFO; Content: SRDCCriticalEventsID : {orcl=20211221020714}
+Level: INFO; Content: Adding event to localEventsForMC with collection id 20211221020708 - ORA-29770: global enqueue process LMS (OSID 9) is hung for more than 70 seconds
+Level: INFO; Content: Setting port in ConnectionAcceptor 5000
+Level: INFO; Content: Adding critical event: ORA-00600: internal error code, arguments:  dbgtu:self_lock_test ,  fake assert ,   ,   ,   ,   ,   ,   ,   ,   ,   ,   Time: 2021-12-21T02:07:07Z
+Level: INFO; Content: Event metadata ST: ORA-00257: archiver error
+Level: INFO; Content: Action args in DiagCollection:  -srdc autosrdc -database orcl -event_time Dec/20/2021 18:07:06 -logid 20211221020714 -xmlfilters 1640052764_srdc_autosrdc -from Dec/20/2021 17:37:06 -to Dec/20/2021 18:37:06 -os -crs -asm -chmos -compliance -node all -cha -monitor -copy -z tfa_srdc_autosrdc_Tue_Dec_21_02_14_48_UTC_2021 -user oradb -tag auto_srdcCompositeTue_Dec_21_02_07_06_UTC_2021_node_den00xrz :20211221020714den00xrz
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/rhp/conf/catalina.properties during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/rhp/conf/catalina.properties in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/rhp/conf/jwc.properties during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/rhp/conf/jwc.properties in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/rhp/conf/Catalina/localhost/rhp-restapi.xml during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/rhp/conf/Catalina/localhost/rhp-restapi.xml in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/rhp/conf/server.xml during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/rhp/conf/server.xml in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/rootcrs_den00xrz_2021-12-20_03-18-02PM.log during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/rootcrs_den00xrz_2021-12-20_03-18-02PM.log in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/cluutil2.log during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/cluutil2.log in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/cluutil1.log during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/cluutil1.log in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/srvmcfg25.log during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/srvmcfg25.log in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/srvmcfg4.log during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/srvmcfg4.log in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/srvmcfg10.log during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/srvmcfg10.log in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/ckptGridHA_den00xrz.xml during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/ckptGridHA_den00xrz.xml in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/srvmcfg1.log during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/srvmcfg1.log in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/srvmcfg13.log during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/srvmcfg13.log in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/oradb/srvmcfg23.log during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/oradb/srvmcfg23.log in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/srvmcfg22.log during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/srvmcfg22.log in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/index.xml during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/crsconfig/index.xml in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/acfs/advm.bin.file.order during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/acfs/advm.bin.file.order in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/acfs/advm.bin.0 during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/acfs/advm.bin.0 in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/acfs/acfs.file.order during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/acfs/acfs.file.order in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/acfs/event.log.0 during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/acfs/event.log.0 in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/qos/logs/catalina.2021-12-20.log during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/qos/logs/catalina.2021-12-20.log in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/qos/logs/dbwlm/logging/mpalog0.xml during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/qos/logs/dbwlm/logging/mpalog0.xml in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/output/ochadOUT.trc during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/output/ochadOUT.trc in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/output/osysmondOUT.trc during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/output/osysmondOUT.trc in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/output/crswrapexece.log during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/output/crswrapexece.log in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/output/ohasd_cssdagent_rootOUT.trc during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/output/ohasd_cssdagent_rootOUT.trc in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/output/octssdOUT.trc during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/output/octssdOUT.trc in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/output/gipcdOUT.trc during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/output/gipcdOUT.trc in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/acfs/acfs.log.0 during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/acfs/acfs.log.0 in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/qos/logs/jwc_checker_stdout_err_0.log during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/qos/logs/jwc_checker_stdout_err_0.log in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/qos/logs/jwc_checker_stdout_err_0.log during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/qos/logs/jwc_checker_stdout_err_0.log in CollectAll
+Level: ERROR; Content: ZipException : duplicate entry: den00xrz/scratch/u01/app/grid_base/crsdata/den00xrz/qos/logs/jwc_checker_stdout_err_0.log during zip of /scratch/u01/app/grid_base/crsdata/den00xrz/qos/logs/jwc_checker_stdout_err_0.log in CollectAll
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: OLSNode : den00xrz
+Level: INFO; Content: Sleeping for 60 seconds before starting TFA DBA Utilities Checker.
+Level: INFO; Content: Sleeping for 60 seconds before starting TFA DBA Utilities Checker.
+Level: INFO; Content: Sleeping for 60 seconds before starting TFA DBA Utilities Checker.
+Level: INFO; Content: Completed updating property repository with status : true
+Level: INFO; Content: Completed updating property repository with status : true
+Level: INFO; Content: Completed updating property chaautocollect with status : true
+Level: INFO; Content: Completed updating property repository with status : true
+Level: INFO; Content: Completed updating property chmretention with status : true
+Level: INFO; Content: Completed updating property maxFileCollectionSize with status : true
+Level: INFO; Content: Completed updating property maxFileCollectionSize with status : true
+Level: INFO; Content: Start Read collect_all_directories.xml
+Level: INFO; Content: Start Read directory_patterns.xml
+Level: INFO; Content: Start Read collect_all_directories.xml
+Level: INFO; Content: Start Read directory_patterns.xml
+Level: INFO; Content: Not a Valid TFA Directory :/var/tmp
+Level: INFO; Content: Not a Valid TFA Directory :/opt/oracle.ahf/data/repository/suptools/prw
+Level: INFO; Content: Not a Valid TFA Directory :/opt/oracle.ahf/data/repository/suptools/prw
+Level: INFO; Content: Not a Valid TFA Directory :/var/tmp
+Level: INFO; Content: Not a Valid TFA Directory :/opt/oracle.ahf/data/repository/suptools/prw
+Level: INFO; Content: Not a Valid TFA Directory :/var/tmp
+Level: INFO; Content: Not a Valid TFA Directory :/opt/oracle.ahf/data/repository/suptools/prw
+Level: INFO; Content: Starting the Non Root Connection Acceptor thread
+Level: INFO; Content: Starting the Non Root Connection Acceptor thread
+Level: INFO; Content: RepositoryManager : Updating repository in config.properties to /opt/oracle.ahf/data/repository
+Level: INFO; Content: RepositoryManager : Updating repository in config.properties to /opt/oracle.ahf/data/repository
+Level: INFO; Content: RepositoryManager : Updating repository in config.properties to /opt/oracle.ahf/data/repository
+Level: INFO; Content: removex runProcess: sleeping for 10 seconds ...
+Level: INFO; Content: removex runProcess: sleeping for 10 seconds ...
+Level: INFO; Content: removex runProcess: sleeping for 10 seconds ...
+Level: INFO; Content: Done reading tfa_directories.txt in TFAMain

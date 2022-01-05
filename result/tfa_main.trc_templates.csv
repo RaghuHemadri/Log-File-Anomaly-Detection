@@ -1,0 +1,399 @@
+EventId,EventTemplate,Occurrences
+ae9cea91,System Error Log is set to syserrorout.<*>.<*>.<*>-<*>.<*>.<*>,3
+ef3e30f8,PERL : <*><*>,3
+3b808ea7,TFA_HOME : <*><*><*>,3
+73e7cd5b,tfactl :<*><*><*><*><*>,3
+3749e79c,Timezone : PST<*>PDT,3
+46bfe1b6,System TZ : UTC,3
+4c9ab8d1,Install Type : TYPICAL,6
+2d7b2349,Creating bucket directory: <*><*><*><*><*><*>,3
+cc663ea8,Reading port file ....,3
+c55bf808,"Getting available port to use from <*>, <*>, <*>, <*>, <*>, <*>",1
+8cfcab83,Available port : <*>,1
+c904790e,"port file does not exist, so creating one...",1
+90e36378,Setting port in Global : <*>,3
+a9ff3043,Writing portMapping to file {den<*>xrz=<*>},1
+c5f98ce8,Start Read <*>,9
+b7c41658,End Read <*>,6
+46b0c3d6,Start setting up array of directoryMappings,3
+5710391d,Done setting up array of <*> <*>,6
+b4f61e75,Node <*> : <*>,13
+4e1202ec,Configuring Repository and setting it to default values,1
+48723899,Directory <*><*><*><*>,1
+f10b3c5a,Default TFA Repository Location : <*><*><*><*>,1
+6c132ba8,RepositoryManager : Updating repository in config.properties to <*><*><*><*>,3
+5f56d871,Updating property repository to value <*><*><*><*>,3
+86e6538d,Completed updating property <*> with status : true,7
+e220a66f,Reading cluster metadata from <*><*><*><*><*><*>,3
+7c62e984,End Read All collect<*>directories.xml,3
+f5093f54,Hostname : den<*>xrz,3
+a5118c95,Host IP : <*>.<*>.<*>.<*>,3
+31d0786c,TFA Version : <*>.<*>.<*>.<*>.<*>,3
+e4cad206,TFA <*> <*> : <*>,9
+a46841b4,OS <*> : <*>,12
+8e6f9c63,Java <*> : <*>,6
+9674ca06,Java Vendor : Oracle Corporation,3
+4b168686,Starting the Connection Acceptor thread,3
+a09e78f9,Starting the Non Root Connection Acceptor thread,3
+5d0f22bb,Connection Acceptor Thread started,3
+f9021f98,Setting port in ConnectionAcceptor <*>,3
+546b61e8,InetAddress localhost<*>,3
+484b6d23,Local Port <*>,3
+5fe6e6bc,"EnabledProtocol : TLSv<*>.<*>, TLSv<*>.<*>",6
+e9215582,Inet Address : <*>,6
+590c12d2,Port : <*>,6
+9d073060,Cipher Suite Enabled : TLS<*>SHA<*>,12
+3c78f661,Starting the <*> thread...,6
+27161f8c,Reading tfa_directories.txt...,3
+20f5f451,Successfully added directory : <*>,99
+fd7417a8,Creating new Action : <*>,21
+0664b4ae,Action persisted : <*> Status : <*>,57
+f4464ce6,Done reading tfa_directories.txt in TFAMain,3
+3df71523,Checking if inventory run exists for this host already : null,1
+b9b76ce5,Creating new Inventory Run Record for this host,1
+499302bf,status of invRun object in TFAMain NOTRUNNING,1
+1c88b48b,Persisting InventoryRun Status : <*> Last run <*> on : Mon Dec <*> <*>:<*>:<*> PST <*>,23
+d71de44e,Thread <*> Started...,7
+d452941d,Total <*> <*> : <*>,13
+53955bd3,Action Restart Limit : <*> minutes,3
+a61b3fb1,Action Name : runinventory Status : <*> ActionArgs : -c,3
+773c367e,Thread Started,3
+a083ea1a,Action to process - <*>,14
+4de34654,ActionClient : tfactl,2
+15b42703,ActionArgs <*>,2
+346da07d,Started Thread for new Inventory Run,2
+19c116d5,Index Not Found Exception: mdIndex.,1
+00a2590d,Initial inventory dump to lucene started,2
+bb49532d,Starting Inventory Thread following First Discovery,3
+b1864255,Arguments to remote run -,1
+9130bc05,Dumping files from store to Lucene,2
+bc759995,Started Cluster Event Viewer Thread...,3
+96a6834b,Opening Socket on loopback for CEMonitoring,3
+dc454045,SSLContext Protocol : TLSv<*>.<*>,3
+b4a3be0d,"Restricted Protocols : SSLv<*>, SSLv<*>Hello, TLSv<*>, TLSv<*>.<*>",3
+0a6bcca8,TFABootMonitor Started,3
+6cc30822,Trying to enable Cipher Suites : TLS<*>SHA<*>,3
+59d5be0a,PeriodicChecker : Waiting for <*> minutes before starting first rediscovery,3
+2e7c26c5,getFilesFromStore: Dumping to lucene started..,2
+ac55b145,"Command output: <*>:<*>:<*> up <*> days, <*>:<*>, <*> user, load average: <*>.<*>, <*>.<*>, <*>.<*>",3
+872d7236,Node is not rebooted,3
+de66cefd,Started Add Nodes Thread...,3
+6c12d378,Metadata index not existed,1
+a57ff6d4,Node Count <*> syncHostsOnTFAStart() : <*>,6
+17fd5634,getFilesFromStore: Dumping to lucene Ended. No. of files: <*>,2
+3309d3c2,Time taken in seconds to dump files to Lucene : <*>,2
+e6186d26,TFAMasterNodePollingThread Started,3
+98ade134,initial setup ...,3
+8740e1a1,remoteHost=null,3
+6a955bab,TFAMasterNodePollingThread: Setting new Master Node,3
+9318d658,TFAPluginMonitor <*>,5
+d400e2f4,TFAMasterNodePollingThread: Set new Master Node: den<*>xrz,3
+4d9e013e,"Started tfaDbUtlScoreThread, ISA is enabled",3
+7c54eac3,Components to Inventory :,5
+ad6208cb,Setting Inventory Thread : <*>,11
+e7482c7f,Called <*>,5
+c0ca5fb7,removex runProcess: sleeping for <*> seconds ...,3
+3666c929,OLSNode : den<*>xrz,63
+9dc8c49a,OLS Node List : den<*>xrz,34
+9bb4738a,Cluster Nodes List : den<*>xrz,33
+7f6fcca2,Hosts List in TFA : den<*>xrz,33
+a6f99381,AddNodes thread wait <*>,65
+5a1fc3ef,Directory to <*> <*>,806
+17c3ac82,Search strings Searcher is constructed,3
+cc85435d,Setting up array of Date Patterns,3
+b6216a7d,RT <*> <*> - <*><*><*>,7
+b1d85892,Start setting up list of file name patterns to ignore,2
+95f4f848,Completed setting up list of file name patterns to ignore,2
+13bae66d,Start setting up array of file-extensions to ignore,2
+1422dd25,Completed setting up array of file-extensions to ignore,2
+c8c30ca3,Start Read data patterns XML,2
+f531e971,Cluster Nodes : den<*>xrz,1
+147c614c,End Read data patterns XML,2
+016c4b63,Setting default resource limits...,3
+9b3e8550,Not performing ignoreFiles and ignoreExtensions checks on this directory : <*><*><*><*><*><*><*><*><*>,84
+e470a85b,Could not find first time stamp for <*>,34
+5aa3bf55,Ignoring Non Existing or Zero Length File : <*>,91
+e3a15db9,Socket connected to ClusterEventsMonitor. Server port : <*>,3
+46c8b9dc,Starting indexer thread for <*>,3
+a2cdcf95,Redo log file <*><*><*><*><*><*><*><*>,4
+94f20de8,Index location <*><*><*><*><*><*><*>,4
+381d7831,"Properties, isTFAOnFARM() : false",4
+043d5367,Added access for user <*>,2
+a81aeffb,Exception in parsing xmlsttring: Premature end of file.,1
+9a167f40,Inventory is already running with Components :,1
+eb7b0dbe,Duplicate Inventory run,1
+250948a3,"Action persisted : runinventory, Status : FAILED-Duplicate run",1
+32e3ac8f,orarom : Not Found in system,1
+c2d7a233,Repository is Open,3
+3e992f10,Updating Inventory Status to COMPLETE and Action to COMPLETED,11
+7812b09b,Time taken to run Inventory in seconds : <*>,11
+24a0d96a,ERROR TFA is not yet secured to run all commands den<*>xrz:ddurefreshconfig:cron,2
+08f78d52,Action readtfactldbutlschedule needs to be refreshed (initial task).,3
+c4840c58,InstanceMonitor restarting scanner:,1
+c1355402,Added instance: <*> for <*>,18
+b7c9d478,SCAN : File to process : <*><*><*><*><*><*><*><*><*><*>,9
+7a850649,Instance: <*> getting oracle home from exe,6
+ee6b040d,Instance: <*> ohome: <*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*>,6
+4806f33a,Not tailing alert log <*>,9
+9877190c,Running in Real Time Tail Mode for :<*><*><*><*><*><*><*><*><*><*>,9
+c28a10b2,Scanning file <*><*><*><*><*><*><*><*><*><*>,3
+57fb0805,Starting check point - : <*>,3
+a8c2c5f6,Scanning started for - <*><*><*><*><*><*><*><*><*><*>,9
+22b5aa7a,Line Contains Release Version:Oracle Database <*>c Enterprise Edition Release <*>.<*>.<*>.<*>.<*> - Production,8
+61b8e192,FileEntity Oracle <*> Oracle Ver from str:<*>.<*>.<*>.<*>.<*>,8
+4086a91a,"DriverClassMT oracleversion, reset date pattern orclver<*>.",2
+7399fc51,DriverClassMT oracleversion fileEntityOracleVersion : <*> fileEntityInstance : <*>,8
+c1c4d0ba,DriverClassMT oracleversion from alert log = <*>.<*>.<*>.<*>.<*>,8
+f4f9b67b,"DriverClassMT oracleversion, database : <*> instance : <*> component : <*> category : ALERT, type : Alert Log - <*> oracleverion: <*>.<*>.<*>.<*>.<*>",8
+9e2fba48,Exception while trying to search index : Empty Index Directory,1
+abebf1e6,<*>-<*> TFAIndexerThread Starting indexer thread for index,1
+65c94f3b,Instance termination<*>,8
+c0328468,Checking FC Event : <*> Component : <*> Arg : <*> Event Date : Mon Dec <*> <*>:<*>:<*> PST <*>,29
+c694a7e8,AddCriticalEvent : <*> : <*>,30
+073d782a,adding to queue<*>-<*>-<*> <*>:<*>:<*>.<*> ORAROOTAGENT(<*>) CRS-<*>: Agent '<*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*>,1
+88c89481,Setting CriticalEventsID for valid Critical Event,30
+534f2396,Setting <*> in <*>,3
+d5d745ff,"Checking FC Event : Instance terminated, Component : orcl, Arg : null, Event Date : Mon Dec <*> <*>:<*>:<*> PST <*>",1
+81456db7,Check incidents cmd: <*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*>,28
+f6f6a8f4,Setting <*> <*>,3
+4e3ef687,CriticalEventsID : <*>,30
+1707c1ae,SRDCCriticalEventsID : <*>,30
+fba6e07f,Adding first critical event to criticalEvents and starting TrimzipHandlerThread for event at <*>,2
+4eb88c49,Adding critical event: <*> <*> <*> <*> <*> <*>,4
+77474370,Starting <*> <*>,3
+65c7bef9,Root element :auto_srdcs,2
+9b03e47b,Node List size :<*>,2
+7518d9e9,Adding AutoSRDC : Name ->ora<*>Filename -> srdc<*>time,16
+f409e22f,isNonSRDCEvent - <*>,30
+bbac7bd8,Adding event to localEventsForMC on den<*>xrz,21
+be878e33,Adding event to localEventsForMC with collection id <*> - <*> <*> <*> <*> <*> <*>,6
+46f5ada1,AddToCriticalEvents collectionId - <*>,30
+74df8d8e,Added CriticalEvent - Collection ID : <*>den<*>xrz,30
+1a8a3983,"Indexing the record - {""data<*>id"": <*> <*> <*> <*> <*> <*> <*> <*>",3
+36cc7433,Starting : criticalEventsID : <*>,2
+5f7d79f4,Sleeping for <*> minutes to collect events,2
+024436c3,"adding to queueInstance terminated by USER, pid = <*>, Event NameInstance terminated",1
+2b65e3e5,CriticalEvents is not null size : <*>,28
+d74e30e0,Adding critical event: <*> <*> <*> <*> <*> <*> <*> <*>-<*>-<*>T<*>:<*>:<*>Z,3
+4dab5a43,Setting merged collection variables to den<*>xrz:<*>,2
+dadf6cfc,Merged collection <*> <*> <*>,19
+c2a25585,Adding event to localEventsForMC with collection id <*> - <*> <*> <*> <*> <*> <*> <*>,3
+25054522,"Indexing the record - {""data<*>path"": <*>",27
+e31d15fb,DriverClassMT oracleversion from fileEntity = <*>.<*>.<*>.<*>.<*>,6
+a614dfbf,adding to <*> ALTER DISKGROUP ALL DISMOUNT <*>/<*><*>,2
+05ccf2ee,"Suptools directories to be purged : orachk, exachk, managelogs, atpcanary, atpdcaglp",2
+554afc25,Suptools Directory : <*>,10
+9c4818fb,Suptools user directory for <*> : <*>,24
+ef3f7a4a,Action readtfactldbutlschedule completed (initial task).,3
+8d401359,Action readtfactldbutlschedule completed.,3
+bd3e9f15,Sleeping for <*> seconds before starting TFA DBA Utilities Checker.,3
+79ade579,Set Resources Limit Command : <*><*><*><*><*><*><*>,3
+dc96a864,Running Command : <*>,28
+0f447a48,"Response from setting default resource limits: Tool: tfa, Resource: cpu, Limit value: <*>.<*> set successfully",3
+e226ef20,Recieved Signal: SIGTERM,2
+508495e5,Handling Signal: SIGTERM,2
+88a10783,Socket closed,2
+6008e7cf,Orachk Executable : <*><*><*><*>,2
+81a026e6,Orachk Data Dir : <*><*><*><*><*>,2
+4b53c664,Waiting for Real Time Scanner to stop...,18
+2a27504e,Not Starting Rediscovery Thread since discovery feature flag is disabled,2
+549a03f3,"interruptRTScan, Saving the restart point: <*> for file: <*><*><*><*><*><*><*><*><*><*>",18
+1f7f3dc5,TFAMasterNodePollingThread: Completed,2
+da8c5ac9,TFAInventoryDirectoryMonitor run is over,2
+a1d8ba15,Removing Instance <*> File : <*><*><*><*><*><*><*><*><*><*>,6
+42ce43d1,DriverMT: Completed : <*><*><*>,6
+371966c8,Received Message to shutdown,4
+f513bd4f,ConnectionAcceptor is Interrupted,2
+4293ab16,Created port mapping from file {den<*>xrz=<*>},2
+f7eb9043,Repository already configured to <*><*><*><*>,2
+db7db22a,"Checking if inventory run exists for this host already : Status : COMPLETE, Last run ended on : Mon Dec <*> <*>:<*>:<*> PST <*>",2
+ef21d579,Inventory Run already exists : false COMPLETE,2
+5bc19ad6,Action Name : <*> Status : COMPLETE ActionArgs :,4
+1d3a10af,Action Name : runinventory Status : FAILED-Duplicate run ActionArgs : null,2
+ff441a49,Analysis already started for the file<*><*><*><*><*><*><*><*><*><*>,6
+40d3df5d,Previous check point - : <*>,6
+b050b070,Updating property <*> to value <*> in config.properties,4
+156ffb33,NonRootConnectionAcceptor is Interrupted,1
+733f3bd0,"SSL Switch : <*>, User Cert : <*> First Disccovery : <*>",1
+44d8d399,Rediscovery Thread started in Mode : <*>,5
+f4770e14,AutoSyncCertificatesThread Cluster Nodes : den<*>xrz,29
+d73e5415,AutoSyncCertificatesThread TFA Node List : den<*>xrz,29
+bfa7d186,Running Inventory after successful addition of directory ...,1
+e9c19622,Rediscovery completed...,5
+77b46649,Found new Directory during rediscovery: <*>,41
+c0a404cb,Found new directories during rediscovery,2
+cff9f977,Running inventory after rediscovery...,2
+00aaaeb8,Not a Valid TFA Directory <*>,8
+258e705b,CHM Retention - CRS Owner : oradb,1
+f89d03da,Exit Status of CHM Retention Script : <*>,1
+5ded2885,Action args in DiagCollection: -since <*>h -database all -rdbms -asm -crsclient -dbclient -dbwlm -tns -rhp -cvu -afd -crs -cha -wls -emagenti -emagent -oms -omsi -ocm -emplugins -em -acfs -install -cfgtools -os -sosreport -qos -dataguard -chmos -compliance -monitor -node all -copy -logid <*> -z tfa<*>collection :<*>den<*>xrz,1
+29bea39a,flags for diagcollect -since <*>h -database all -rdbms -asm -crsclient -dbclient -dbwlm -tns -rhp -cvu -afd -crs -cha -wls -emagenti -emagent -oms -omsi -ocm -emplugins -em -acfs -install -cfgtools -os -sosreport -qos -dataguard -chmos -compliance -monitor -node all -copy -logid <*> -z tfa<*>collection,1
+84e83bfd,DiagCollection Log FileName : <*><*><*><*><*><*>,7
+7fc4e798,DiagCollection Console Log FileName : <*><*><*><*><*><*>,7
+6c43f22f,Resetting merged collection variables for <*>,9
+77a7543b,argsForInventory : <*>,7
+45d70511,"Components to Inventory : OMSI, EMAGENT, ACFS, ASMPROXY, CRSCLIENT, EMAGENTI, OMS, DBWLM, OCM, CHA, AFD, CFGTOOLS, DBCLIENT, RDBMS, OS, CRS, EM, ASMIO, DATAGUARD, INSTALL, TNS, ASM, RHP, EMPLUGINS, WLS",4
+369dbc7b,Collection Date : Mon Dec <*> <*>:<*>:<*> PST <*>,7
+61db99f3,"Components in Entity : omsi, emagent, acfs, asmproxy, sosreport, crsclient, emagenti, oms, qos, dbwlm, ocm, cha, cfgtools, afd, dbclient, rdbms, cvu, os, crs, em, chmos, asmio, dataguard, install, compliance, tns, asm, rhp, emplugins, wls",4
+c85e942f,"startDate : Mon Dec <*> <*>:<*>:<*> PST <*> endDate : Mon Dec <*> <*>:<*>:<*> PST <*> zipFileShortName : tfa<*><*>.zip components : {omsi=null, emagent=null, acfs=null, asmproxy=null, crsclient=null, emagenti=null, oms=null, dbwlm=null, ocm=null, cha=null, afd=null, cfgtools=null, dbclient=null, rdbms=null, os=null, crs=null, em=null, asmio=null, dataguard=null, install=null, tns=null, asm=null, rhp=null, emplugins=null, wls=null} actions : {acfs=null, rdbms=null, cvu=null, os=null, crs=null, chmos=null, sosreport=null, dataguard=null, qos=null, compliance=null, asm=null, cha=null, afd=null} remoteHosts : den<*>xrz chmNodelist : isClusterRequest : true isTrimOn : true isACRSanitize: falseisACRMask: false noCore : true isNologs : false request user : root",4
+3a5d9ec3,Registering Thread : <*>,21
+634328a6,Collecting CHM using new API,7
+90c05e9c,Updating endDate after inventory : Mon Dec <*> <*>:<*>:<*> PST <*>,4
+d9bf38e7,ZipException : duplicate entry: <*>,89
+0ddd46d9,"Components with ADR :{omsi=null, emagent=null, acfs=null, asmproxy=null, crsclient=null, emagenti=null, oms=null, dbwlm=null, ocm=null, cha=null, afd=null, cfgtools=null, dbclient=null, rdbms=null, os=null, crs=null, em=null, asmio=null, dataguard=null, install=null, tns=null, asm=null, rhp=null, emplugins=null, wls=null}",4
+69f68039,Populate zip txt metrics hash,6
+92202063,Completed writing metrics to zip.txt,6
+729b7015,Creating Zip Metadata Json File for zip : <*><*><*><*><*><*>,6
+351f74d5,Generating File : <*><*><*><*><*><*>,6
+4deba683,Metadata Json File :<*><*><*><*><*><*>,6
+cbe954e1,Adding <*> Data,12
+d26d6f06,Node List Set : den<*>xrz,6
+c8974c42,Completed : <*> <*> Data,18
+7da857da,Adding Initiating Events Data,6
+299f7789,Initiating Events <*> <*> <*>,6
+ac4b79f7,DATAorg.glassfish.json.JsonArrayBuilderImpl@<*>c<*>a<*>db,1
+d43c92f5,Completed : <*> <*> <*> Data,12
+3eaec5f4,Gathering TFA Config Data,6
+e5ee8d77,Gathering <*> <*> <*> Data,12
+26e8275b,Querying for Events: From : <*> To : <*>,6
+fadd5ec5,Processing returned event Fields: <*> source<*>path=<*><*><*><*><*><*><*><*><*><*>,190
+3a6fde98,"Processing returned event Fields: {instance=NULL, source_type=CRS Alert Log, source=alert.log, content=<*>-<*>-<*> <*>:<*>:<*>.<*> ORAROOTAGENT(<*>) CRS-<*>: Agent '<*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*>",1
+1d241ae0,"Processing returned event Fields: {instance=+ASM<*>, source<*>+ASM<*>.log, <*> ALTER DISKGROUP ALL DISMOUNT <*>/<*><*><*><*><*><*><*><*><*><*><*><*>",2
+d338284b,Completed : Gathering Events in Period Data,6
+eae61ca1,Unable to read events file : <*><*><*><*><*><*><*><*><*><*>,6
+aa9a636c,Gathering <*> Data,12
+67ae6536,Gathering SRDC Data For : <*>,6
+d7c93730,Completed : Gathering SRDC Data For : <*>,6
+35745520,Completed creating Zip Metadata Json File for zip : <*><*><*><*><*><*>,6
+72c21a62,Adding zip info json file <*><*><*><*><*><*>,6
+b728abc3,Completed Adding zip info json file to <*><*><*><*><*><*>,6
+b66d25d2,Collecting last <*> lines for : <*><*><*><*><*><*><*>,6
+ee9cbdb2,"adding to queueORA-<*>: archiver error, Event NameORA-<*>",1
+f62a7bd2,Adding critical event: ORA-<*>: archiver errorTime: <*>-<*>-<*>T<*>:<*>:<*>Z,1
+b1d51b8d,Adding event to localEventsForMC with collection id <*> - ORA-<*>: archiver error,1
+2f5bbb9f,adding to queueORA-<*>: <*> <*> <*> <*> <*> Event NameORA-<*>,4
+d264fb43,Adding critical event: ORA-<*>: <*> <*> <*> <*> <*> <*>-<*>-<*>T<*>:<*>:<*>Z,4
+66879491,adding to queueORA-<*>: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> Event NameORA-<*>,2
+76a7a81c,Adding critical event: ORA-<*>: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>-<*>-<*>T<*>:<*>:<*>Z,2
+f4ae6f7d,Adding event to localEventsForMC with collection id <*> - ORA-<*>: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+4054c04b,"Match found for Regex : \ ?( a-zA-Z:_\-<*>-<*> {<*>,})?\ , Event Arg : <*>",3
+3f0a5c88,"adding to queueORA-<*>: <*> <*> <*> arguments: <*> , , , , Event NameORA-<*>",2
+18bb5310,"Adding critical event: ORA-<*>: <*> <*> <*> arguments: <*> , , , Time: <*>-<*>-<*>T<*>:<*>:<*>Z",2
+23ace189,srdcCriticalEventsID : <*>,10
+e75f947c,adding to queueORA-<*>: <*> <*> <*> <*> <*> <*> <*> <*> Event NameORA-<*>,6
+d17c24f8,Adding critical event: ORA-<*>: <*> <*> <*> <*> <*> <*> <*> <*> <*>-<*>-<*>T<*>:<*>:<*>Z,6
+55b56781,Adding event to localEventsForMC with collection id <*> - ORA-<*>: PGA memory used by the instance exceeds PGA<*>LIMIT,1
+16286a89,"adding to queueORA-<*>: object no longer exists, Event NameORA-<*>",1
+1a3a2e63,Adding event to localEventsForMC with collection id <*> - ORA-<*>: object no longer exists,1
+60cabb03,adding to queueORA-<*>: <*> <*> <*> <*> <*> <*> <*> Event NameORA-<*>,6
+d5f34e7c,Adding critical event: ORA-<*>: <*> <*> <*> <*> <*> <*> <*> <*>-<*>-<*>T<*>:<*>:<*>Z,6
+0cd10cf8,Adding event to localEventsForMC with collection id <*> - ORA-<*>: <*> <*> <*> <*> <*> <*> <*>,6
+17efbd5a,adding to queueORA-<*>: <*> <*> <*> <*> <*> <*> Event NameORA-<*>,2
+7235617c,"adding to queueORA-<*>: global enqueue process LMS (OSID <*>) is hung for more than <*> seconds, Event NameORA-<*>",1
+79d17b57,Adding critical event: ORA-<*>: global enqueue process LMS (OSID <*>) is hung for more than <*> secondsTime: <*>-<*>-<*>T<*>:<*>:<*>Z,1
+2c14f4f4,Adding event to localEventsForMC with collection id <*> - ORA-<*>: global enqueue process LMS (OSID <*>) is hung for more than <*> seconds,1
+141b02e8,Match found for Regex : \ ?( a-zA-Z:<*>test,1
+3c73a238,"adding to queueORA-<*>: internal error code, arguments: dbgtu:self<*>test , fake assert , , , , , , , , , , , Event NameORA-<*>",1
+08386d71,"Adding critical event: ORA-<*>: internal error code, arguments: dbgtu:self<*>test , fake assert , , , , , , , , , , Time: <*>-<*>-<*>T<*>:<*>:<*>Z",1
+e955eda2,Action args in DiagCollection: -since <*>h -database all -rdbms -asm -crsclient -dbclient -dbwlm -tns -rhp -cvu -afd -crs -cha -wls -emagenti -emagent -oms -omsi -ocm -emplugins -em -acfs -install -cfgtools -os -sosreport -qos -dataguard -chmos -compliance -monitor -node all -copy -logid <*> -z tfa<*><*> -tag <*>h :<*>den<*>xrz,2
+d3f208af,flags for diagcollect -since <*>h -database all -rdbms -asm -crsclient -dbclient -dbwlm -tns -rhp -cvu -afd -crs -cha -wls -emagenti -emagent -oms -omsi -ocm -emplugins -em -acfs -install -cfgtools -os -sosreport -qos -dataguard -chmos -compliance -monitor -node all -copy -logid <*> -z tfa<*><*> -tag <*>h,2
+8ae096ad,Getting all critical events now : <*>,1
+dbc0a664,DATAorg.glassfish.json.JsonArrayBuilderImpl@<*>e<*>,1
+b649a5d4,"Processing returned event Fields: {instance=orcl<*>, source<*>test , fake assert , , , , , , , , , , , pdbname=null, hostname=den<*>xrz, component=RDBMS, database=orcl, tracefile=<*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*>",5
+f97dc485,"Processing returned event Fields: {instance=orcl<*>, source<*>orcl<*>.log, content=Incident details in: <*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*>",5
+7fa75ad1,Collection wait time is done,1
+b2371882,Merged Collection initiating node - den<*>xrz,1
+8803d942,Components not yet Collected by Initiating Node,1
+f6a49843,MCComponentsNotCollected set to True,1
+150c1353,Getting component list from remote nodes,1
+ee2f13e5,MC remote components list - null,1
+84d69509,Queue size on Initiating node since components are added to <*>st evnt:<*>,1
+917764d9,Reset master node variables from initiating node,1
+61b80fee,Request to master den<*>xrz:resetMasterNodeMCVariables:<*>,1
+bef27c77,Resetting CriticalEventsId prior to Starting AutoCollection,1
+d0f58bf0,Setting CriticalEventsID:,1
+5f0c67c9,No of events to process - <*>,1
+231ae74c,Processing event ORA-<*>: archiver error at .... <*>-<*>-<*>T<*>:<*>:<*>Z,1
+418faddb,Adding the first event to processedEvents : <*>-<*>-<*>T<*>:<*>:<*>Z,1
+7e43dade,Processing event ORA-<*>: <*> <*> <*> <*> <*> at .... <*>-<*>-<*>T<*>:<*>:<*>Z,3
+384c221a,Creating a composite event at <*>,16
+2840c57c,Processing event ORA-<*>: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> at .... <*>-<*>-<*>T<*>:<*>:<*>Z,2
+ed08257f,Processing event ORA-<*>: <*> <*> <*> <*> <*> <*> <*> <*> at .... <*>-<*>-<*>T<*>:<*>:<*>Z,8
+eaa37647,Trying to add ORA-<*> with db orcl,9
+91d39fff,Creating first Event ORA-<*> db orcl Successfully added to the set,1
+f2f2f8dc,Event ORA-<*> db orcl. Successfully added to the set,7
+990e1c16,Processing event ORA-<*>: <*> <*> <*> <*> at .... <*>-<*>-<*>T<*>:<*>:<*>Z,2
+affe6030,Processing event ORA-<*>: <*> <*> <*> <*> <*> <*> <*> at .... <*>-<*>-<*>T<*>:<*>:<*>Z,6
+b5024414,Processing event ORA-<*>: <*> <*> <*> <*> <*> <*> at .... <*>-<*>-<*>T<*>:<*>:<*>Z,2
+f64533be,Processing event ORA-<*>: global enqueue process LMS (OSID <*>) is hung for more than <*> seconds at .... <*>-<*>-<*>T<*>:<*>:<*>Z,1
+969a0acb,"Processing event ORA-<*>: internal error code, arguments: dbgtu:self<*>test , fake assert , , , , , , , , , , at .... <*>-<*>-<*>T<*>:<*>:<*>Z",1
+bdaa75a9,Event ORA-<*> db orcl. Failed to be added as another exists,1
+eb8811be,Process SRDC function,1
+1fd0b9b4,ORA-<*>,8
+92e1b44e,autosrdc.xml file <collections>,1
+19e98a61,memory was exhausted.,1
+ceb22aaf,is needed in the shared<*>,1
+bc0c66cc,dump.,1
+2227402a,Auto Collection for ORA-<*>,1
+9001fd97,"prompt=""Enter the time of the ORA-<*>"" >USERINPUT-EVENT_TIME<<*>",1
+f1c4ce26,"prompt=""Enter the Database Name"" >USERINPUT-DATABASE_NAME<<*>",1
+ef59c8a4,"prompt="""" >USERINPUT-TFA_HOME<<*>",1
+007d9000,"version=""GTE-<*>.<*>"" exclude_on=""GTE-<*>.<*>"" >",3
+c39f4058,"version="""" exclude_on="""" <*>",9
+26b4b13a,"version=""LT-<*>.<*>"" exclude_on=""LT-<*>.<*>"" >",2
+9f68f533,-localonly -excludecvu -excludediscovery,1
+f4431cf1,db_lsinventory.txt,1
+82c9eb32,"version=""<*>.<*>"" exclude_on=""<*>.<*>"" >",1
+fbb00656,Command :<*><*><*><*><*><*><*>,1
+730a3898,Running Command : su oradb -c <*><*><*><*><*><*><*>,1
+29630b61,Action args in DiagCollection: -srdc autosrdc -database orcl -event_time Dec<*><*><*><*><*><*>,1
+c93de91c,flags for diagcollect -srdc autosrdc -database orcl -event_time Dec<*><*><*><*><*><*>,1
+c735e325,Current User of Diagcollect Command : oradb,2
+799d649a,"Total Inputs found in ORA-<*>,ORA-<*>,ORA-<*>,ORA-<*>,ORA-<*>,ORA-<*>,ORA-<*>,ORA-<*>auto SRDC :<*>",1
+e8197cc2,SRDC <*>,3
+b0263211,"Components found in ORA-<*>,ORA-<*>,ORA-<*>,ORA-<*>,ORA-<*>,ORA-<*>,ORA-<*>,ORA-<*>auto SRDC :{}",1
+49fea765,"Components to Inventory : RDBMS, OS, CRS, TNS, ASM, CHA, ASMPROXY, ASMIO, CFGTOOLS, AFD",2
+27efd7d9,"Components in Entity : rdbms, os, crs, compliance, tns, chmos, asm, asmproxy, asmio, cha, cfgtools, afd",1
+912a390b,"startDate : Mon Dec <*> <*>:<*>:<*> PST <*> endDate : Mon Dec <*> <*>:<*>:<*> PST <*> zipFileShortName : tfa<*><*>.zip components : {rdbms= orcl , os=null, crs=null, tns=null, asm=null, cha=null, asmproxy=null, asmio=null, cfgtools=null, afd=null} actions : {rdbms= orcl , os=null, crs=null, compliance=null, chmos=null, asm=null, cha=null, afd=null} remoteHosts : den<*>xrz chmNodelist : isClusterRequest : true isTrimOn : true isACRSanitize: falseisACRMask: false noCore : true isNologs : false request user : oradb",1
+19dfeb61,"Components with ADR :{rdbms= orcl , os=null, crs=null, tns=null, asm=null, cha=null, asmproxy=null, asmio=null, cfgtools=null, afd=null}",2
+ccbf67a4,DATAorg.glassfish.json.JsonArrayBuilderImpl@<*>a<*>e<*>,1
+23de8803,Action args in DiagCollection: -from <*>,2
+a8c9caf4,flags for diagcollect -from <*>,2
+2ace720b,"Initiating Events metadata : {str=ORA-<*>: soft internal error, arguments: <*> , , , , collectionType=auto, searchString=.*ORA-<*>.*, fileName=<*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*>",1
+6f320acd,Event metadata <*> <*>,50
+19431eb3,Event metadata ST: ORA-<*>: <*> <*> <*> <*> <*> <*> <*> <*>,8
+e063685c,Event metadata ST: ORA-<*>: <*> <*> <*> <*>,2
+08a8657c,"Event metadata ST: ORA-<*>: internal error code, arguments: dbgtu:self<*>test , fake assert , , , , , , , , , ,",1
+683c5cbc,DATAorg.glassfish.json.JsonArrayBuilderImpl@<*>,1
+db9907c0,Notification from AutoSRDC's,1
+31b5328e,Result file not found,2
+66587959,File Owner: oradb User Address: null,18
+652808e0,srdcCriticalEventsIDMap after clearing : {},1
+a3ccaccc,compositeEvents: <*>-<*>-<*>T<*>:<*>:<*>Z,17
+b56a2650,Starting Auto Collect with start : Mon Dec <*> <*>:<*>:<*> PST <*> and end : Mon Dec <*> <*>:<*>:<*> PST <*>,1
+4867ee5d,RunningAutoCollections:,1
+7329a685,Replaced rdbms component with databases orcl,1
+0cb62d8d,Adding cha to AutoCollect Args,1
+f8c179df,Args before any cell addition: -from Dec<*><*><*><*>,1
+6460274b,Args for AutoCollect : -from Dec<*><*><*><*>,1
+f7045bf0,"Metadata : {str=ORA-<*>: archiver error, collectionType=auto, searchString=.*ORA-<*>(<*>|<*>|<*>|<*>|<*>).*, fileName=<*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*>",1
+2bbbee86,Done processing events,1
+52da9c85,"Components in Entity : rdbms, os, crs, tns, asm, asmproxy, asmio, cha, cfgtools, afd",1
+e7c0d3bb,"startDate : Mon Dec <*> <*>:<*>:<*> PST <*> endDate : Mon Dec <*> <*>:<*>:<*> PST <*> zipFileShortName : tfa<*><*>.zip components : {rdbms= orcl , os=null, crs=null, tns=null, asm=null, cha=null, asmproxy=null, asmio=null, cfgtools=null, afd=null} actions : {rdbms= orcl , os=null, crs=null, asm=null, cha=null, afd=null} remoteHosts : den<*>xrz chmNodelist : isClusterRequest : true isTrimOn : true isACRSanitize: falseisACRMask: false noCore : true isNologs : false request user : root",1
+5b71172a,"Initiating Events metadata : {str=ORA-<*>: archiver error, collectionType=auto, searchString=.*ORA-<*>(<*>|<*>|<*>|<*>|<*>).*, fileName=<*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*><*>",1
+185533f5,Event metadata ST: ORA-<*>: archiver error,1
+5fdbb1f2,Event metadata SS: .*ORA-<*>(<*>|( <*>-<*> <*>-<*> |<*>( <*>-<*> | <*>-<*> ))).*,2
+b095eefa,Event metadata ST: ORA-<*>: <*> <*> <*> <*> <*>,3
+2d01e144,Event metadata ST: ORA-<*>: enqueue held for too long more than seconds by osid,1
+d3c66346,"Event metadata ST: ORA-<*>: index key not found, obj <*>, file <*>, block <*>",1
+736101bb,Event metadata ST: ORA-<*>: <*> <*> <*> <*> <*> <*> <*>,6
+1878feb4,Event metadata ST: ORA-<*>: <*> <*> <*> <*> <*> <*>,2
+efd30a96,Event metadata ST: ORA-<*>: global enqueue process LMS (OSID <*>) is hung for more than <*> seconds,1
+a14e6d91,DATAorg.glassfish.json.JsonArrayBuilderImpl@<*>f<*>,1
+273b4cdf,DATAorg.glassfish.json.JsonArrayBuilderImpl@<*>fa<*>f<*>d<*>,1
+11275385,Action args in DiagCollection: -since <*>h -database all -rdbms -asm -crsclient -dbclient -dbwlm -tns -rhp -cvu -afd -crs -cha -wls -emagenti -emagent -oms -omsi -ocm -emplugins -em -acfs -install -cfgtools -os -sosreport -qos -dataguard -rdbms -asm -crsclient -dbclient -dbwlm -tns -rhp -procinfo -cvu -afd -crs -cha -wls -emagenti -emagent -oms -omsi -ocm -emplugins -em -acfs -install -cfgtools -os -ashhtml -ashtext -awrhtml -awrtext -sosreport -qos -ahf -dataguard -chmos -compliance -monitor -node all -copy -logid <*> -z tfa<*>nr :<*>den<*>xrz,1
+ced51cc2,flags for diagcollect -since <*>h -database all -rdbms -asm -crsclient -dbclient -dbwlm -tns -rhp -cvu -afd -crs -cha -wls -emagenti -emagent -oms -omsi -ocm -emplugins -em -acfs -install -cfgtools -os -sosreport -qos -dataguard -rdbms -asm -crsclient -dbclient -dbwlm -tns -rhp -procinfo -cvu -afd -crs -cha -wls -emagenti -emagent -oms -omsi -ocm -emplugins -em -acfs -install -cfgtools -os -ashhtml -ashtext -awrhtml -awrtext -sosreport -qos -ahf -dataguard -chmos -compliance -monitor -node all -copy -logid <*> -z tfa<*>nr,1
+cc60ad29,"Components to Inventory : OMSI, EMAGENT, ACFS, ASMPROXY, CRSCLIENT, EMAGENTI, OMS, DBWLM, OCM, PROCINFO, CHA, AFD, CFGTOOLS, DBCLIENT, RDBMS, OS, CRS, EM, ASMIO, DATAGUARD, INSTALL, TNS, ASM, RHP, EMPLUGINS, WLS",1
+24f85293,"Components in Entity : omsi, emagent, acfs, ashhtml, ashtext, asmproxy, sosreport, crsclient, emagenti, oms, qos, dbwlm, ocm, procinfo, cha, cfgtools, afd, ahf, awrtext, dbclient, rdbms, cvu, awrhtml, os, crs, em, chmos, asmio, dataguard, install, compliance, tns, asm, rhp, emplugins, wls",1
+2e8d30fe,"startDate : Mon Dec <*> <*>:<*>:<*> PST <*> endDate : Mon Dec <*> <*>:<*>:<*> PST <*> zipFileShortName : tfa<*><*>.zip components : {omsi=null, emagent=null, acfs=null, asmproxy=null, crsclient=null, emagenti=null, oms=null, dbwlm=null, ocm=null, procinfo=null, cha=null, afd=null, cfgtools=null, dbclient=null, rdbms=null, os=null, crs=null, em=null, asmio=null, dataguard=null, install=null, tns=null, asm=null, rhp=null, emplugins=null, wls=null} actions : {awrtext=null, acfs=null, rdbms=null, cvu=null, awrhtml=null, os=null, crs=null, ashhtml=null, chmos=null, ashtext=null, sosreport=null, dataguard=null, qos=null, compliance=null, asm=null, procinfo=null, cha=null, afd=null, ahf=null} remoteHosts : den<*>xrz chmNodelist : isClusterRequest : true isTrimOn : true isACRSanitize: falseisACRMask: false noCore : true isNologs : false request user : oradb",1
+20cc13f3,"Components with ADR :{omsi=null, emagent=null, acfs=null, asmproxy=null, crsclient=null, emagenti=null, oms=null, dbwlm=null, ocm=null, procinfo=null, cha=null, afd=null, cfgtools=null, dbclient=null, rdbms=null, os=null, crs=null, em=null, asmio=null, dataguard=null, install=null, tns=null, asm=null, rhp=null, emplugins=null, wls=null}",1
